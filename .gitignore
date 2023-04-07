@@ -1,0 +1,26 @@
+# env
+.env
+
+# Deno cache
+.cache
+
+# Deno test results
+*.test.result.json
+
+# Deno compiled files
+*.js
+
+# Dependency lock file
+lock.json
+
+# Editor specific files
+.vscode
+.idea
+*.iml
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
